@@ -1,0 +1,19 @@
+#エスケープは<C-t>
+escape ^tt
+
+#ウィンドウの強制リサイズ回避
+termcapinfo xterm 'is=\E[r\E[m\E[2J\E[H\E[?7h\E[?1;4;6l' 
+
+#起動時のメッセージいらね
+startup_message off
+
+#ステータスライン表示
+hardstatus alwayslastline " %-w%{=b rw}%n %t%{-}%+w"
+
+#スクロールバッファ
+defscrollback 10000
+
+termcapinfo xterm* ti@:te@
+
+#zombie
+#zombie "q^M"
