@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/norimania/Sites/jq.validation/.git'
+let g:netrw_dirhist_2='/Users/norimania/Sites/jq.validation/_src'
+let g:netrw_dirhist_3='/Users/norimania/Sites/wd/WD1206'
+let g:netrw_dirhist_4='/Users/norimania/Desktop/_work/_dev/_pds/pds/htdocs/resources/json/hotels'
+let g:netrw_dirhist_5='/Users/norimania/Desktop/_work/_dev/_pds/pds/htdocs/resources/js'
+let g:netrw_dirhist_6='/Users/norimania/Desktop/_work/_dev/_codegrid/views/app/js'

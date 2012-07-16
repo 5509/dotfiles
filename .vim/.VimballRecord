@@ -1,0 +1,2 @@
+open_terminal.vba: call delete('/Users/Takazudo/.vim/plugin/open_terminal.vim')|call delete('/Users/Takazudo/.vim/doc/open_terminal.txt')
+htmlspecialchars.vba: call delete('/Users/Takazudo/.vim/ftplugin/html/htmlspecialchars.vim')|call delete('/Users/Takazudo/.vim/doc/htmlspecialchars.txt')
